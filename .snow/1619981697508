@@ -1,0 +1,2 @@
+lib/domain/entities/auth/auth_entity.dart
+lib/data/mappers/auth/auth_mapper.dart

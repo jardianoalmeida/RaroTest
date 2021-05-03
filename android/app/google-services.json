@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558047423395",
+    "project_id": "raro-test",
+    "storage_bucket": "raro-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558047423395:android:a8b550708cade7f9d48816",
+        "android_client_info": {
+          "package_name": "com.jardiano.raro_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558047423395-i47div7f5cg143hrebhlrfrqjj1h0c8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg_VsCxXI0e5JNpumpHdYWZOEUVao_7eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558047423395-i47div7f5cg143hrebhlrfrqjj1h0c8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+lib/app/pages/login/pages/login/login_page.dart
+test/app/pages/login/pages/login/login_page_test.dart
+lib/app/pages/login/pages/login/login_controller.dart
+MODIFIED:lib/app/pages/login/login_module.dart
+test/app/pages/login/pages/login/login_controller_test.dart
+lib/app//i18n/app/pages/login/pages/login_i18n.dart
+test/app//i18n/app/pages/login/pages/login_i18n_test.dart

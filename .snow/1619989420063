@@ -1,0 +1,7 @@
+lib/app/pages/main_menu/home/add_vehicle/add_vehicle_page.dart
+test/app/pages/main_menu/home/add_vehicle/add_vehicle_page_test.dart
+lib/app/pages/main_menu/home/add_vehicle/add_vehicle_controller.dart
+MODIFIED:lib/app/pages/main_menu/home/add_vehicle/add_vehicle_module.dart
+test/app/pages/main_menu/home/add_vehicle/add_vehicle_controller_test.dart
+lib/app//i18n/app/pages/main_menu/home/add_vehicle_i18n.dart
+test/app//i18n/app/pages/main_menu/home/add_vehicle_i18n_test.dart

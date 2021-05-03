@@ -1,0 +1,2 @@
+lib/domain/entities/user/user_entity.dart
+lib/data/mappers/user/user_mapper.dart

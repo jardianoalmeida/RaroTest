@@ -1,0 +1,7 @@
+lib/app/pages/login/pages/recover_password/recover_password_page.dart
+test/app/pages/login/pages/recover_password/recover_password_page_test.dart
+lib/app/pages/login/pages/recover_password/recover_password_controller.dart
+MODIFIED:lib/app/pages/login/login_module.dart
+test/app/pages/login/pages/recover_password/recover_password_controller_test.dart
+lib/app//i18n/app/pages/login/pages/recover_password_i18n.dart
+test/app//i18n/app/pages/login/pages/recover_password_i18n_test.dart
